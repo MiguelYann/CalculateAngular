@@ -1,6 +1,13 @@
 # CalculateAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+This project is a simple Calculator
+
+## Tools
+
+Bootstrap: I'm also using CDN of bootstrap so you need Internet connection for use it. But, you can download bootstrap 3.3.7
+```bash
+npm install bootstrap@3
+```
 
 ## Development server
 
